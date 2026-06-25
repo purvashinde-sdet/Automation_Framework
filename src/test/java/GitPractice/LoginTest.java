@@ -12,6 +12,12 @@ public class LoginTest {
 		// updated test case
 		
 		// updated test case// updated test case// updated test case
+//<<<<<<< Updated upstream
+//		//love you Psquare.
+//=======
+//>>>>>>> Stashed changes
+		
+		
 		//love you pramod
 
 
